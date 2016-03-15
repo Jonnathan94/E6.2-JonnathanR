@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script:400,700);
+h5 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 28px; }
+
+p {
+  font-family: 'Dancing Script', cursive;
+  font-size: 20px; }
+
+body {
+  background-image: url("http://www.solofondosdepantalla.net/fondos-de-pantalla/Abstractos/Fondo-de-pantalla-Abstracto-229.jpg"); }
+
+.footer {
+  background-color: #C8FE2E; }
+
+.publicidad {
+  background-color: #F2F2F2;
+  opacity: 0.8; }
+
+.header {
+  background-color: #C8FE2E; }
